@@ -1,10 +1,10 @@
-![](telestrap-darkmode.png)
+![](telestrap-darkmodev2.png)
 
 > Caution!!
 
 The only official place to download TeleStrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us (eg. telestrap.org, telestrap.com). Do not download from them.
 
-TeleStrap is a custom bootstrapper for Roblox based on Fishstrap, which is based off of Bloxstrap. It aims to provide additional features to compliment your experience.
+*TeleStrap is a custom bootstrapper for Roblox based on Fishstrap, which is based off of Bloxstrap. It aims to provide additional features to compliment your experience.*
 
 > Note
 
